@@ -1,7 +1,7 @@
 👋 Hello, World! I'm Shiva, a passionate data enthusiast on a journey to unlock the potential of data science in healthcare. 🌐
 
 🏥 Aspiring Data Scientist in Healthcare
-- 🎓 Currently pursuing Data Science Diploma at Brainstation
+- 🎓 Completed my Data Science Diploma at Brainstation (yay!) 
 - 💡 Exploring the intersection of data science, medicine, and technology
 - 🌱 Learning and growing every day to make a positive impact on healthcare outcomes
 
